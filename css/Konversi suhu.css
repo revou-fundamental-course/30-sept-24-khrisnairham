@@ -1,0 +1,33 @@
+body{
+    background-color: khaki;
+}
+section{
+    text-align: center;
+}
+section h1{
+    font-size: xx-large
+}
+button{
+    padding-inline: 23px;
+    margin-bottom: 10px;
+}
+button:hover{
+    background-color: sandybrown;
+}
+textarea {
+    width: 300px;
+    height: 60px;
+    font-size: 17px;
+    border-radius: 10px; 
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+hr{
+    width:600px;
+    position: center;
+}
+span{
+    font-style: italic;
+}
